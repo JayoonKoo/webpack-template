@@ -8,7 +8,7 @@
 	],
 	"parser": "@babel/eslint-parser",
 	"rules": {
-		"semi": ["error", "never"],
-		"quotes" : ["error", "single"]
+		// "semi": ["error", "never"],
+		// "quotes" : ["error", "single"]
 	}
 }

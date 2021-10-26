@@ -1,1 +1,1 @@
-import {checkType} from '~/utils/checkType'
+// import {checkType} from '~/utils/checkType'
